@@ -1,0 +1,14 @@
+C:\Files\VStudio\MessageSendClient\MessageSendClient\bin\Debug\net7.0\MessageSendClient.exe
+C:\Files\VStudio\MessageSendClient\MessageSendClient\bin\Debug\net7.0\MessageSendClient.deps.json
+C:\Files\VStudio\MessageSendClient\MessageSendClient\bin\Debug\net7.0\MessageSendClient.runtimeconfig.json
+C:\Files\VStudio\MessageSendClient\MessageSendClient\bin\Debug\net7.0\MessageSendClient.dll
+C:\Files\VStudio\MessageSendClient\MessageSendClient\bin\Debug\net7.0\MessageSendClient.pdb
+C:\Files\VStudio\MessageSendClient\MessageSendClient\obj\Debug\net7.0\MessageSendClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\VStudio\MessageSendClient\MessageSendClient\obj\Debug\net7.0\MessageSendClient.AssemblyInfoInputs.cache
+C:\Files\VStudio\MessageSendClient\MessageSendClient\obj\Debug\net7.0\MessageSendClient.AssemblyInfo.cs
+C:\Files\VStudio\MessageSendClient\MessageSendClient\obj\Debug\net7.0\MessageSendClient.csproj.CoreCompileInputs.cache
+C:\Files\VStudio\MessageSendClient\MessageSendClient\obj\Debug\net7.0\MessageSendClient.dll
+C:\Files\VStudio\MessageSendClient\MessageSendClient\obj\Debug\net7.0\refint\MessageSendClient.dll
+C:\Files\VStudio\MessageSendClient\MessageSendClient\obj\Debug\net7.0\MessageSendClient.pdb
+C:\Files\VStudio\MessageSendClient\MessageSendClient\obj\Debug\net7.0\MessageSendClient.genruntimeconfig.cache
+C:\Files\VStudio\MessageSendClient\MessageSendClient\obj\Debug\net7.0\ref\MessageSendClient.dll

@@ -1,0 +1,14 @@
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\bin\Debug\net7.0\MessageRealtimeViewClient.exe
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\bin\Debug\net7.0\MessageRealtimeViewClient.deps.json
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\bin\Debug\net7.0\MessageRealtimeViewClient.runtimeconfig.json
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\bin\Debug\net7.0\MessageRealtimeViewClient.dll
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\bin\Debug\net7.0\MessageRealtimeViewClient.pdb
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\obj\Debug\net7.0\MessageRealtimeViewClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\obj\Debug\net7.0\MessageRealtimeViewClient.AssemblyInfoInputs.cache
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\obj\Debug\net7.0\MessageRealtimeViewClient.AssemblyInfo.cs
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\obj\Debug\net7.0\MessageRealtimeViewClient.csproj.CoreCompileInputs.cache
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\obj\Debug\net7.0\MessageRealtimeViewClient.dll
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\obj\Debug\net7.0\refint\MessageRealtimeViewClient.dll
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\obj\Debug\net7.0\MessageRealtimeViewClient.pdb
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\obj\Debug\net7.0\MessageRealtimeViewClient.genruntimeconfig.cache
+C:\Files\VStudio\MessageRealtimeViewClient\MessageRealtimeViewClient\obj\Debug\net7.0\ref\MessageRealtimeViewClient.dll
